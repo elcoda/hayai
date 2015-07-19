@@ -1,2 +1,3 @@
-# hayai
+# Hayai
 Quick web framework placeholder
+
